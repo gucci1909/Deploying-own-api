@@ -1,0 +1,23 @@
+{
+  "name": "vigilant-doodle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gucci1909/vigilant-doodle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gucci1909/vigilant-doodle/issues"
+  },
+  "homepage": "https://github.com/gucci1909/vigilant-doodle#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
